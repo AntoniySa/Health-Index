@@ -1,0 +1,10 @@
+D:\Orders\C# health app\healthcare-app\healthcare-app\bin\Debug\healthcare-app.exe.config
+D:\Orders\C# health app\healthcare-app\healthcare-app\bin\Debug\healthcare-app.exe
+D:\Orders\C# health app\healthcare-app\healthcare-app\bin\Debug\healthcare-app.pdb
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare-app.csproj.AssemblyReference.cache
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare_app.Form1.resources
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare_app.Properties.Resources.resources
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare-app.csproj.GenerateResource.cache
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare-app.csproj.CoreCompileInputs.cache
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare-app.exe
+D:\Orders\C# health app\healthcare-app\healthcare-app\obj\Debug\healthcare-app.pdb
